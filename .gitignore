@@ -1,0 +1,24 @@
+.gradle
+*/build/*
+!gradle/wrapper/gradle-wrapper.jar
+.DS_Store
+target
+*/logs
+logs
+*.logs
+*.jar
+*.properties
+/out
+out/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+out/
+*.logs
+
+gradlew
+
